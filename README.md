@@ -13,4 +13,5 @@ effectively used to classify the COVID-19 cases. The performance study of the pr
 depicts its effectiveness in terms of accuracy and precision. A comparative study has also been done
 with the recently published works and it is observed the performance of the proposed model is
 significantly better.
+
 Keywords COVID-19, Deep Learning, Transfer learning, Machine Learning,VGG16.
