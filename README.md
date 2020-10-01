@@ -1,4 +1,4 @@
-# Corona_Prediction
+# Corona_Prediction NO of Cases Using Machine Learning Algorithm
 
 The novel coronavirus disease (COVID-19) is spreading very rapidly across the globe because of its
 highly contagious nature, and is declared as a pandemic by world health organization (WHO).
